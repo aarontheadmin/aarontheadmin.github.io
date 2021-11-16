@@ -23,7 +23,7 @@ title: Aaron the Admin                          # the main title
 tagline: Automating Microsoft-or-not   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A simple blog documenting systems administration, PowerShell, and automating whatever moves, speaks, or talks.
+  A simple blog documenting systems administration, PowerShell, and automating whatever moves, listens, or talks.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://aarontheadmin.github.io'
