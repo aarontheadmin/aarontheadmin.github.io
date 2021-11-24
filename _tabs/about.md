@@ -6,7 +6,7 @@ order: 4
 
 Welcome to my blog which is essentially a place for me to document interesting, unique, or one-off findings in the journey of IT administration and PowerShell solutions, and hopefully of use to you.
 
-I am a well-rounded Systems Administrator with a strong focus on Microsoft technologies, and an emphasis on PowerShell automation for Microsoft or non-Microsoft environments/platforms. While infrastructure is my core expertise, I am also very security-centric to protect people, data, and systems, to ensure efficiencies, uptime, and productivity (like the [PAW security model](https://aka.ms/CyberPAW)).
+I am a well-rounded Systems Administrator with well over 15 years having a strong focus on Microsoft technologies, and an emphasis on PowerShell automation for Microsoft or non-Microsoft environments/platforms. While infrastructure is my core expertise, I am also very security-centric to protect people, data, and systems, to ensure efficiencies, uptime, and productivity (like using the [PAW security model](https://aka.ms/CyberPAW)).
 
 Some of my expertise lies in:
 
@@ -23,4 +23,4 @@ Microsoft Cloud technologies:
 * SharePoint Online
 * and more...
 
-**November 2021 Update** - I am attempting to revive this blog from its dormant phase, and add more interesting content like Microsoft Endpoint Mananger and much more.
+**November 2021 Update** - I am attempting to revive this blog from its dormant phase, and add more interesting content like Microsoft Endpoint Manager and much more.
