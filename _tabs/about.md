@@ -23,4 +23,4 @@ Microsoft Cloud technologies:
 * SharePoint Online
 * and more...
 
-**November 2021 Update** - I am attempting to revive this blog from its dormant phase, and add more interesting content to include Azure and MEM content.
+**November 2021 Update** - I am attempting to revive this blog from its dormant phase, and add more interesting content like Microsoft Endpoint Mananger and much more.
