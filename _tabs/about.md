@@ -7,26 +7,12 @@ order: 4
 ### Welcome to my blog...
 which is essentially a place for me to document interesting, unique, or one-off findings in the journey of IT administration and developing custom PowerShell solutions, and hopefully of use to you.
 
-As a well-rounded Systems Administrator, I have well over 15 years with a strong focus on Microsoft technologies and an emphasis on PowerShell automation for Microsoft or non-Microsoft environments/platforms. While infrastructure is my core expertise, I am also very security-centric to protect people, data, and systems, to ensure efficiencies, uptime, and productivity (like using the [PAW security model](https://aka.ms/CyberPAW)). I also enjoy bridging gaps between disparate technologies.
+Having an emphasis on PowerShell provides much opportunity in the Microsoft ecosystem, whether it's traditional on-prem technologies like Active Directory, Group Policy, or remotely configuring and monitoring network systems... or in modern computing with Azure AD, Intune, Autopilot, and much more.
 
-Some of my expertise lies in:
+However, I love the challenge and unique approach of automating non-Microsoft technologies with PowerShell, be it on Windows, macOS, third-party apps, or whatever. Why? Because PowerShell is FUN. And if built right, the tools you make are easy for non-technical users to use.
 
-* Azure Active Directory
-* Microsoft Endpoint Manager (Intune & Autopilot)
-* Exchange Online
-* SharePoint Online
-* Teams
-* Windows Server
-* Active Directory
-* Group Policy
-* WSUS
-* Hyper-V
-* macOS, Bash, AppleScript
-* SDN network deployments
-* much, much more...
-
-### One of My Favorite Projects...
-was developing automation for multilingual (multitrack) live streaming, reaching a world-wide audience, using PowerShell, Bash, and AppleScript on macOS, to automate nearly 100% of the following:
+### One of My Favorite (Non-Microsoft) Projects...
+was developing automation for multilingual (multitrack) live streaming, reaching a world-wide audience, using PowerShell (started with 6.0.0-alpha), Bash, and AppleScript on macOS, to automate nearly 100% of the following:
 
 1) Startup of live streaming events (with minimal input prompts).
 2) Unattended shutdown driven by specified countdown timer or audio level.
