@@ -14,14 +14,13 @@ However, I love the challenge and unique approach of automating non-Microsoft te
 ### One of My Favorite (Non-Microsoft) Projects...
 was developing automation for multilingual (multitrack) live streaming, reaching a world-wide audience, using PowerShell (started with 6.0.0-alpha), Bash, and AppleScript on macOS, to automate nearly 100% of the following:
 
-1) Startup of live streaming events (with minimal input prompts).
-2) Unattended shutdown driven by specified countdown timer or audio level.
-3) Ship multitrack file to processing computer to:
-
-    a) Create single tracks (per language).
-    b) Create and tag MP3 and archive quality files based on metadata stored online.
-    c) Upload all files and enable access for worldwide audience.
-    d) Transfer multitrack file for backup.
+1. Startup of live streaming events (with minimal input prompts).
+2. Unattended shutdown driven by specified countdown timer or audio level.
+3. Ship multitrack file to processing computer to:
+    a. Create single tracks (per language).
+    b. Create and tag MP3 and archive quality files based on metadata stored online.
+    c. Upload all files and enable access for worldwide audience.
+    d. Transfer multitrack file for backup.
 
 ### In Conclusion...
 
