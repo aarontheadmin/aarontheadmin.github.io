@@ -19,10 +19,10 @@ However, I love the challenge and unique approach of automating non-Microsoft te
 1. Startup of live streaming events (with minimal input prompts).
 2. Unattended shutdown driven by specified countdown timer or audio level.
 3. Ship multitrack file to processing computer to:
-   i. Create single tracks (per language).
-   ii. Create and tag MP3 and archive quality files based on metadata stored online.
-   iii. Upload all files and enable access for worldwide audience.
-   iiii. Transfer multitrack file for backup.
+    1. Create single tracks (per language).
+    2. Create and tag MP3 and archive quality files based on metadata stored online.
+    3. Upload all files and enable access for worldwide audience.
+    4. Transfer multitrack file for backup.
 
 ### In Conclusion
 
